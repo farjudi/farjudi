@@ -6,7 +6,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
 
 ## 🛠️ Tech Stack  
 
